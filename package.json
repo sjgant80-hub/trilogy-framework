@@ -1,0 +1,17 @@
+{
+  "name": "trilogy-framework",
+  "version": "1.0.0",
+  "description": "The AI Pipeline Framework — Input→Intelligence→Output as one declarative flow. DocMind + Deep + Flux unified.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts", "src/"],
+  "keywords": ["ai", "pipeline", "framework", "document-intelligence", "deep-research", "content-generation", "llm", "orchestration", "workflow", "agent"],
+  "author": "sjgant80-hub",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/sjgant80-hub/trilogy-framework" },
+  "homepage": "https://sjgant80-hub.github.io/trilogy-framework/",
+  "dependencies": {
+    "trilogy-sdk": "^1.0.0"
+  },
+  "engines": { "node": ">=18.0.0" }
+}
