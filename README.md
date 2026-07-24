@@ -1,5 +1,7 @@
 # trilogy-framework
 
+**Live:** [sjgant80-hub.github.io/trilogy-framework](https://sjgant80-hub.github.io/trilogy-framework/)
+
 **The AI Pipeline Framework.** Input → Intelligence → Output as one declarative flow.
 
 ```
